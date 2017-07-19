@@ -1,5 +1,7 @@
 # video-player
 
+[![Build Status](https://travis-ci.org/davidgarsan/text2sql.svg?branch=master)](https://travis-ci.org/davidgarsan/video-player)
+
 > A simple movie detail and video player
 
 ## Build Setup
